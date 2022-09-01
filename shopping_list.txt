@@ -2,4 +2,4 @@ Apple x1
 Banana x1
 Orange x1
 Potato x1
-Cherry x1
+Cherry x2
