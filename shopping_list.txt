@@ -1,5 +1,6 @@
 Apple x1
 Banana x2
 Orange x1
-Potato x1
+Potato x2
 Cherry x2
+Olive x1
